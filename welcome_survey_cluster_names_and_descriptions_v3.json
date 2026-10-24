@@ -1,0 +1,14 @@
+{
+    "Cluster 0": {
+        "name": "Górscy psiarze w średnim wieku",
+        "description": "Profil statystyczny grupy: Największy odsetek stanowią osoby lubiące spędzać czas w górach. Dominujący przedział wiekowy w tym klastrze to 45-54, a najczęściej wybierane zwierzęta domowe to: psy."
+    },
+    "Cluster 1": {
+        "name": "Wodniste średniaki lubiący psy",
+        "description": "Profil statystyczny grupy: Największy odsetek stanowią osoby lubiące spędzać czas nad wodą. Dominujący przedział wiekowy w tym klastrze to 45-54, a najczęściej wybierane zwierzęta domowe to: psy."
+    },
+    "Cluster 2": {
+        "name": "Wodniste psiarze wieku 35-44",
+        "description": "Profil statystyczny grupy: Największy odsetek stanowią osoby lubiące spędzać czas nad wodą. Dominujący przedział wiekowy w tym klastrze to 35-44, a najczęściej wybierane zwierzęta domowe to: psy."
+    }
+}
